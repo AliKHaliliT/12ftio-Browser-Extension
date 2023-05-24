@@ -46,11 +46,17 @@ chrome.storage.local.get({ overlayButtonVisible: true }, ({ overlayButtonVisible
 // Add a fullscreenchange event listener to the document
 const handleFullscreenChange = () => {
     if (document.fullscreenElement) {
-        button.style.display = 'none'; 
+        button.style.display = 'none';
     } else {
-        button.style.display = 'inline-block'; 
+        chrome.storage.local.get({ overlayButtonVisible: true }, ({ overlayButtonVisible }) => {
+            if (overlayButtonVisible) {
+                button.style.display = 'inline-block';
+            } else {
+                button.style.display = 'none';
+            }
+        });
     }
-}  
+};
 
 // Add a fullscreenchange event listener to the document
 document.addEventListener('fullscreenchange', handleFullscreenChange);
