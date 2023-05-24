@@ -9,7 +9,7 @@ An UNOFFICIAL chrome extension that helps you visit a website through 12ft.io pr
 Because microsoft edge is based on chromium, this extension should also work on edge.
 
 ## Installation
-1. Download the latest release from [here]() and unzip it.
+1. Download the latest release from [here](https://github.com/AliKHaliliT/12ftio-Browser-Extension/releases) and unzip it.
 2. Open Chrome and go to `chrome://extensions`.
 3. Turn on `Developer mode` on the top right corner.
 4. Click `Load unpacked` and select the folder you just unzipped.
