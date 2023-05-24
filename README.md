@@ -1,5 +1,8 @@
 # 12ftIOHelper
 ## Introduction
+<div align="center">
+  <img src="12ftioHelper/icons/icon512.png" alt="Icon" />
+</div>
 An UNOFFICIAL chrome extension that helps you visit a website through 12ft.io proxy. 12ft.io is a website that allows you to remove paywalls from websites. For more information, visit https://12ft.io/.
 Because microsoft edge is based on chromium, this extension should also work on edge.
 ## Installation
@@ -18,4 +21,4 @@ Note that steps may vary slightly on edge.
 Simply click the floating `Liberate!` button on the bottom right corner of the page.
 Note that this button can be disabled in the extension page.
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This work is under an [MIT](https://choosealicense.com/licenses/mit/) License.
