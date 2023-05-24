@@ -47,4 +47,3 @@ chrome.storage.local.get({ overlayButtonVisible: true }, ({ overlayButtonVisible
         button.style.display = 'none';
     }
 });
-
