@@ -1,8 +1,10 @@
 # 12ftIOHelper
 ## Introduction
+
 <div align="center">
-  <img src="12ftioHelper/icons/icon512.png" alt="Icon" style="width: 200px; height: 200px;" />
+  <img src="12ftioHelper/icons/icon512.png" alt="Icon" style="width: 250px; height: 250px;" />
 </div>
+
 
 An UNOFFICIAL chrome extension that helps you visit a website through 12ft.io proxy. 12ft.io is a website that allows you to remove paywalls from websites. For more information, visit https://12ft.io/.
 Because microsoft edge is based on chromium, this extension should also work on edge.
