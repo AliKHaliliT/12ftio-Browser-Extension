@@ -11,11 +11,11 @@ Because microsoft edge is based on chromium, this extension should also work on 
 
 Note that steps may vary slightly on edge.
 ## Usage
-First Method:
-    1. Click the extension icon on the toolbar.
-    2. Click `Liberate!` button to visit the current website through 12ft.io proxy.
-Second Method:
-    Simply click the floating `Liberate!` button on the bottom right corner of the page.
-    Note that this button can be disabled in the extension page.
+### First Method:
+1. Click the extension icon on the toolbar.
+2. Click `Liberate!` button to visit the current website through 12ft.io proxy.
+### Second Method:
+Simply click the floating `Liberate!` button on the bottom right corner of the page.
+Note that this button can be disabled in the extension page.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
