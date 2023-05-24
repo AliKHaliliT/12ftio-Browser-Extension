@@ -2,7 +2,7 @@
 ## Introduction
 <p></P>
 <div align="center">
-  <img src="12ftioHelper/icons/icon512.png" alt="Icon" style="width: 250px; height: 250px;" />
+  <img src="12ftIOHelper/icons/icon512.png" alt="Icon" style="width: 250px; height: 250px;" />
 </div>
 <P></P>
 An UNOFFICIAL chrome extension that helps you visit a website through 12ft.io proxy. 12ft.io is a website that allows you to remove paywalls from websites. For more information, visit https://12ft.io/.
