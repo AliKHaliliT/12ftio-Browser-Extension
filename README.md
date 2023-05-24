@@ -7,6 +7,7 @@
 <P></P>
 An UNOFFICIAL chrome extension that helps you visit a website through 12ft.io proxy. 12ft.io is a website that allows you to remove paywalls from websites. For more information, visit https://12ft.io/.
 Because microsoft edge is based on chromium, this extension should also work on edge.
+
 ## Installation
 1. Download the latest release from [here]() and unzip it.
 2. Open Chrome and go to `chrome://extensions`.
